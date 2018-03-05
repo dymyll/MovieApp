@@ -25,6 +25,7 @@ namespace MvcMovie.Controllers
     */
         public string MyRandom()
         {
+            //Comment rand
             Random myrand = new Random();
             return "The Random Number is " + myrand.Next();
         }
