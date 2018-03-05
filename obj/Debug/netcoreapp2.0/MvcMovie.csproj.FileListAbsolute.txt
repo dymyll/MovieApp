@@ -1,0 +1,10 @@
+c:\Users\Dymyll\Documents\CIDM_4390\Refresher\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.deps.json
+c:\Users\Dymyll\Documents\CIDM_4390\Refresher\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.runtimeconfig.json
+c:\Users\Dymyll\Documents\CIDM_4390\Refresher\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.runtimeconfig.dev.json
+c:\Users\Dymyll\Documents\CIDM_4390\Refresher\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.dll
+c:\Users\Dymyll\Documents\CIDM_4390\Refresher\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.pdb
+c:\Users\Dymyll\Documents\CIDM_4390\Refresher\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.csproj.CoreCompileInputs.cache
+c:\Users\Dymyll\Documents\CIDM_4390\Refresher\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.AssemblyInfoInputs.cache
+c:\Users\Dymyll\Documents\CIDM_4390\Refresher\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.AssemblyInfo.cs
+c:\Users\Dymyll\Documents\CIDM_4390\Refresher\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.dll
+c:\Users\Dymyll\Documents\CIDM_4390\Refresher\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.pdb
